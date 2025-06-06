@@ -24,7 +24,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-*idea/
+*.idea/
+*.ipynb_checkpoints/
 MANIFEST
 
 # PyInstaller
