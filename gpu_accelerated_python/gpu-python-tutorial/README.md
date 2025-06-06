@@ -18,6 +18,11 @@ In this tutorial we will cover:
 
 Attendees will be expected to have a general knowledge of Python and programming concepts, but no GPU experience will be necessary. The key takeaway for attendees will be the knowledge that they don’t have to do much differently to get their code running on a GPU.
 
+## Running tutorial at PyData 
+
+Create an account https://learn.nvida.com/login gives 3 months of access
+enter code `PYDATA_XLAB_JN06` at learn.nvidia.com/dli-event
+
 ## Running the tutorial
 
 This tutorial has been updated to run on [Google Colab](https://colab.google/) (as of Dec 2023) which allows anyone with a Google account to get an interactive Python environment with a GPU.
