@@ -1,0 +1,35 @@
+name: ts_course
+
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - arviz
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jax
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - nbformat
+  - numba
+  - numpyro
+  - nutpie
+  - pandas
+  - patsy
+  - pip
+  - plotly
+  - polars
+  - preliz
+  - pyarrow
+  - pymc
+  - pydot
+  - python-graphviz
+  - pytensor
+  - scipy
+  - seaborn
+  - setuptools
+  - statsmodels
+  - watermark
+  - xlrd
