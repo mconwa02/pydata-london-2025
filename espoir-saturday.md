@@ -98,6 +98,6 @@ He wrapped up by highlighting key considerations for LLM applications:
 
 ---
 
-Apart from these presentations, I attended other talks, including one by Jay Almar on the current state of transformer models, a favorite of mine, Ines Montani, who discussed a new library spaCy is building for PDF documents, and another on LLM arithmetic.
+Apart from these presentations, I attended other talks, including one by Jay Almar on the current state of transformer models, a favorite of mine, Ines Montani[], who discussed a new library spaCy is building for PDF documents, and another on LLM arithmetic.
 
 That’s all for Saturday’s presentations. I got to meet brilliant people, had fun, and enjoyed myself. Though, for some reason, I noticed there were no T-shirts at the conference!
